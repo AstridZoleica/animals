@@ -1,0 +1,12 @@
+/Users/gr/Desktop/animals/target/wasm32-unknown-unknown/debug/deps/implicit_clone-8b130fcfc66f0286.rmeta: /Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/lib.rs /Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/sync.rs /Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/unsync.rs /Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/string.rs /Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/array.rs /Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/map.rs
+
+/Users/gr/Desktop/animals/target/wasm32-unknown-unknown/debug/deps/libimplicit_clone-8b130fcfc66f0286.rlib: /Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/lib.rs /Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/sync.rs /Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/unsync.rs /Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/string.rs /Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/array.rs /Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/map.rs
+
+/Users/gr/Desktop/animals/target/wasm32-unknown-unknown/debug/deps/implicit_clone-8b130fcfc66f0286.d: /Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/lib.rs /Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/sync.rs /Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/unsync.rs /Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/string.rs /Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/array.rs /Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/map.rs
+
+/Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/lib.rs:
+/Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/sync.rs:
+/Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/unsync.rs:
+/Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/string.rs:
+/Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/array.rs:
+/Users/gr/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.4/src/map.rs:
